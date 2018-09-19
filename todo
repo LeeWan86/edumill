@@ -1,34 +1,3 @@
-1. place holder for textbox
-2. api-url: http://indigo-cloud.ap-southeast-1.elasticbeanstalk.com
+1. call API
+   - api-url: http://indigo-cloud.ap-southeast-1.elasticbeanstalk.com
 
-/* Rectangle 260: */
-border: 1px;
-border-radius: 3px;
-/* Email Address: */
-font-family: .AppleSystemUIFont;
-font-size: 16px;
-color: #636363;
-/* kelly@rubify.com: */
-font-family: .AppleSystemUIFont;
-font-size: 16px;
-color: #636363;
-
-border-radius: 3px;
-/* Password: */
-font-family: .AppleSystemUIFont;
-font-size: 16px;
-color: #636363;
-/* **********: */
-font-family: .AppleSystemUIFont;
-font-size: 16px;
-color: #636363;
-
-border-radius: 3px;
-/* Sign In: */
-font-family: .AppleSystemUIFont;
-font-size: 18px;
-color: #FFFFFF;
-
-
-
-<div className="label-copyright"><label>@2018 Copyright Indigo Education Group</label></div>
