@@ -20,6 +20,7 @@
   "devDependencies": {
     "antd": "^3.9.2",
     "awesome-typescript-loader": "^5.2.1",
+    "immer": "^1.7.1",
     "source-map-loader": "^0.2.4",
     "typescript": "^3.0.3",
     "webpack": "^4.19.0",
